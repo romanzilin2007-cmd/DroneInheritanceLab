@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DroneInheritanceLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44d7de58931e4c0e39d8a3f3e95495e85da9a920")]
 [assembly: System.Reflection.AssemblyProductAttribute("DroneInheritanceLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DroneInheritanceLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
